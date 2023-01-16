@@ -1,0 +1,26 @@
+.textColor {
+    color: #25272E;
+}
+
+.scoreText {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.nameBox {
+    background-color: orangered;
+}
+
+.scoreBox {
+    border-color: #25272E;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.userBox {
+    border-radius: 7px 0 0 7px;
+}
+
+.compBox {
+    border-radius: 0 7px 7px 0;
+}
